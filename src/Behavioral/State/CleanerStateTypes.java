@@ -1,4 +1,4 @@
-package State;
+package Behavioral.State;
 
 public enum CleanerStateTypes {
 
