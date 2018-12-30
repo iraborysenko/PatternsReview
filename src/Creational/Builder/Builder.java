@@ -18,7 +18,7 @@ class JuiceMultiFruit {
     private final int numberOfApricots;
     private final int numberBunchOfGpapes;
     private final int numberOfApples;
-    
+
     public static class Builder {
         private final int mililliters;
         private final int calories;
